@@ -1,5 +1,5 @@
-# Kaggle-Survey-Dash
-Kaggle Survey Dashboard 
+# A-Dynamic-Dashboard-Analysis-of-Kaggle-Surveys
+Uncovering Insights and Trends from the World's Largest Community of Data Scientists 
 
 •In a Kaggle survey of over 90 questions, these represent the responses of over 25,000 data scientists.
 
